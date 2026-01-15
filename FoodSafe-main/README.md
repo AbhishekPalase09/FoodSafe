@@ -94,7 +94,7 @@ MONGODB_URI=mongodb://localhost:27017/foodsafe
 
 For MongoDB Atlas, use:
 ```env
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/foodsafe
+
 ```
 
 4. Start the backend server:
